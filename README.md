@@ -1,12 +1,13 @@
-<h2 align="left">Hello World!! Welcome To My Profile</h2>
+<h1 align="left">Hello World!! Welcome To My Profile</h1>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png"  />
+  <img width="100%" src="https://geeksblabla.community/.netlify/images?url=_astro%2Fgeeksblabla-campus-logo.BSuNnzs_.png"  />
 </div>
 
 ###
+<h2>Social Media</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,7 +23,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -30,7 +31,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -74,10 +75,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymen-errfig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-errfig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="135" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aymen-errfig&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aymen-errfig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" width="50%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-errfig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" width="40%" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aymen-errfig&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="80%" alt="streak graph"  />
 </div>
 
 ###
